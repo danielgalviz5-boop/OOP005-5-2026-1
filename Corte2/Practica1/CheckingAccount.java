@@ -1,4 +1,4 @@
-public class CheckingAccount{
+public class CheckingAccount {
   private String name;
   private int balance;
   private String id;
@@ -16,7 +16,4 @@ public class CheckingAccount{
   public void setBalance(int newBalance) {
     balance = newBalance;
   }
-
-  //Write new methods here:
-  
 }
